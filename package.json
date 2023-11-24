@@ -1,5 +1,5 @@
 {
-  "name": "avian",
+  "name": "gosky",
   "version": "1.0.0",
   "description": "Airline Reservations System",
   "main": "index.js",
@@ -7,16 +7,9 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/akshat-rawat/Avian.git"
-  },
-  "author": "Akshat Rawat",
+ 
+  "author": "Harikrishna Pillai",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/akshat-rawat/Avian/issues"
-  },
-  "homepage": "https://github.com/akshat-rawat/Avian#readme",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "connect-mongo": "^4.4.1",
